@@ -42,7 +42,13 @@ deepfake-detection/
 ## User-flow:
 
 ```
-Upload image --> Image is sent to the ai model in the backend to process based on training criterias, and it returns a result --> Display result: **Authentic / Deepfake** along with Confidence score (as a percentage) --> Option to "Upload Another Image" to check a different image
+Upload image
+↓
+Image is sent to the ai model in the backend to process based on training criterias, and it returns a result
+↓
+Display result: **Authentic / Deepfake** along with Confidence score (as a percentage)
+↓
+Option to "Upload Another Image" to check a different image
 ```
 
 ---
@@ -88,3 +94,4 @@ Upload image --> Image is sent to the ai model in the backend to process based o
 ## License
 
 This project is open for educational and non-commercial use. For commercial use, please contact the author.
+
