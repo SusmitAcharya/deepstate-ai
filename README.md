@@ -62,8 +62,7 @@ Upload image --> Image is sent to the ai model in the backend to process based o
 | -------------- | ------------------------------------------ |
 | Creator Safety | Verify misuse in thumbnails/profile images |
 | Journalism     | Quick authenticity checks                  |
-| Education      | Teach media literacy                       |
-| SMEs           | Low-cost verification workflows            |
+| Education      | Teach media ethics and literacy            |
 
 ---
 
@@ -89,4 +88,5 @@ Assistant Teacher for Computer Applications and Computer Science, Auxlium Conven
 ## License
 
 This project is open for educational and non-commercial use. For commercial use, please contact the author.
+
 
